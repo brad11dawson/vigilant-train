@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "866326946011",
+    "firebase_url": "https://vigilant-train.firebaseio.com",
+    "project_id": "vigilant-train",
+    "storage_bucket": "vigilant-train.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866326946011:android:3fabe5392c05df8b",
+        "android_client_info": {
+          "package_name": "com.coryswainston.vigilanttrain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866326946011-e8639ejnk17u4kqcv046emaj27ua4i23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coryswainston.vigilanttrain",
+            "certificate_hash": "a2c72370259a387003c2e052e66e768f1d92bc07"
+          }
+        },
+        {
+          "client_id": "866326946011-aq7k030b13q33cg18h17bmbvj9o4v2jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaM3PyJg-UFIaq9DdX8tIjwO9SRP_Wey4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866326946011-aq7k030b13q33cg18h17bmbvj9o4v2jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
