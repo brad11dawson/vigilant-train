@@ -85,6 +85,8 @@ public class MainActivity extends AppCompatActivity {
         if (currentUser != null) {
             Intent intent = new Intent(this, GreetActivity.class);
             intent.putExtra("userName", currentUser.getDisplayName());
+            intent.putExtra("email", currentUser.getEmail());
+            intent.putExtra("profilePic", currentUser.getPhotoUrl());
             startActivity(intent);
         }
     }
